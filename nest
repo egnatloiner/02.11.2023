@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Iphone Xs Max</title>
+</head>
+<body>
+<a href="index.html">Главная</a>
+<a href="#diz">Характеристики</a>
+<a href="second.html">Отзывы</a>
+    <h1>Характеристики Iphone Xs Max</h1>
+<img src="images/iphone.jpeg" width="200">
+    <h2 id="diz">Дизаин</h2>
+<p>Высота -- 157.мм</p>
+<hr>
+<p>Ширина -- 77.4мм</p>
+<hr>
+<p>Толщина -- 7.7мм</p>
+<hr>
+<p>Вес -- 208гр</p>
+<hr>
+<p>Цвета -- Серый, Золотистый, Серебристый</p>
+<hr>
+<p>Материал корпуса -- Стекло, Нержавеющая сталь</p>
+<hr>
+<p>Стандарт пылевлагозащиты -- IP68</p>
+<hr>
+<p>Экран -- IP68</p>
+<hr>
